@@ -1,0 +1,24 @@
+{
+  "name": "z-pack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-generator": "^6.26.1",
+    "babel-traverse": "^6.26.0",
+    "babel-types": "^6.26.0",
+    "babylon": "^6.18.0",
+    "ejs": "^3.1.6",
+    "html-webpack-plugin": "^4.5.0",
+    "webpack": "^4.33.0",
+    "webpack-cli": "^3.3.4"
+  },
+  "devDependencies": {
+    "neo-async": "^2.6.2"
+  }
+}
