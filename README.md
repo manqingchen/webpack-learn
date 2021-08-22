@@ -1,3 +1,5 @@
+> 主流程已经完成了，增加Template就可以完成打包啦～
+
 ## 执行流程
 1. webpack接受options 创建compiler实例;
 2. 创建node环境 赋予webpak读写能力;
